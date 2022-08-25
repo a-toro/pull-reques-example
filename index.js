@@ -1,1 +1,0 @@
-console.log("Escrito desde index");
